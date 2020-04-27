@@ -1,4 +1,5 @@
+title: Samprita Hegde's blog
 description: > # this means to ignore newlines until "baseurl:"
-  My personaly thoughts and opinions on all things technology and life. 
+  My personal thoughts and opinions on all things technology and life. 
 theme: jekyll-theme-midnight
 permalink: /:categories/:year/:month/:day/:title
