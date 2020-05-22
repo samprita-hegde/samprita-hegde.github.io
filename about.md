@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi, this is Samprita Hegde. I am working as a Devops Engineer focussing mainly on cloud migrations and replatforming for about 7 years now. Overall, I have about 14 years of experience in Software Development and IT. 
-
+Hi, this is Samprita Hegde. I have about 14 years of experience in Software Development and IT. From past 7 years my focus has been in DevOps and Cloud Computing. I am deeply passionate about architecting ,designing and implementing solutions in cloud
